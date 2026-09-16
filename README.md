@@ -1,7 +1,7 @@
 # Canadian Healthcare Claims & Access Analytics Dashboard  
 📊 Project Overview
 
-This project is an Excel-based healthcare analytics dashboard designed to explore healthcare access, insurance coverage, claim activity, and patient satisfaction across Canada.
+This project is an Excel-based healthcare analytics dashboard designed to explore healthcare access, insurance coverage, claim activity, and Average wait time for Doctors across Canada.
 
 I created this project to demonstrate how raw healthcare data can be transformed into an interactive analytical tool that helps users explore patterns across provinces, healthcare claim types, and insurance providers.
 
