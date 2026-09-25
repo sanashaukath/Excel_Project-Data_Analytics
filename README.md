@@ -9,6 +9,9 @@ Rather than building a dashboard based only on static charts, I wanted to create
 
 Raw Data → Data Preparation → Calculations → Validation → Analysis → Dashboard → Interactive Insights
 
+<img width="1065" height="534" alt="image" src="https://github.com/user-attachments/assets/9eeeb0e0-f348-4218-bdfd-fbb539568948" />
+
+
 🎯 Project Objectives
 
 - Analyze healthcare access across Canadian provinces.
