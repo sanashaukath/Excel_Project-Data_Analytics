@@ -11,7 +11,7 @@ Raw Data → Data Preparation → Calculations → Validation → Analysis → D
 
 🎯 Project Objectives
 
-Analyze healthcare access across Canadian provinces.
+1. Analyze healthcare access across Canadian provinces.
 Compare family doctor waiting times by province.
 Explore healthcare claim amounts across different claim types.
 Compare insurance providers using claim data.
