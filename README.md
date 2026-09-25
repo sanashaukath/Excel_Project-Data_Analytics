@@ -8,3 +8,12 @@ I created this project to demonstrate how raw healthcare data can be transformed
 Rather than building a dashboard based only on static charts, I wanted to create a project that demonstrates the complete analytics workflow:
 
 Raw Data → Data Preparation → Calculations → Validation → Analysis → Dashboard → Interactive Insights
+
+🎯 Project Objectives
+
+Analyze healthcare access across Canadian provinces.
+Compare family doctor waiting times by province.
+Explore healthcare claim amounts across different claim types.
+Compare insurance providers using claim data.
+Develop an interactive Excel tool that allows users to explore healthcare claims.
+Practice organizing, analyzing, and visualizing data using Excel.
