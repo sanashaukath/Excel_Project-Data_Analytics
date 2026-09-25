@@ -20,6 +20,6 @@ Raw Data → Data Preparation → Calculations → Validation → Analysis → D
 
 🛠️ Tools & Skills Demonstrated
 
-📉 Charts
-🧮 Formulas and Functions
-❎ Data Validation
+- 📉 Charts
+- 🧮 Formulas and Functions
+- ❎ Data Validation
