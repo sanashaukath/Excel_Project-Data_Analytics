@@ -17,3 +17,9 @@ Raw Data → Data Preparation → Calculations → Validation → Analysis → D
 - Compare insurance providers using claim data.
 - Develop an interactive Excel tool that allows users to explore healthcare claims.
 - Practice organizing, analyzing, and visualizing data using Excel.
+
+🛠️ Tools & Skills Demonstrated
+
+📉 Charts
+🧮 Formulas and Functions
+❎ Data Validation
