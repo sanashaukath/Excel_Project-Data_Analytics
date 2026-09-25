@@ -11,9 +11,9 @@ Raw Data → Data Preparation → Calculations → Validation → Analysis → D
 
 🎯 Project Objectives
 
-1. Analyze healthcare access across Canadian provinces.
-Compare family doctor waiting times by province.
-Explore healthcare claim amounts across different claim types.
-Compare insurance providers using claim data.
-Develop an interactive Excel tool that allows users to explore healthcare claims.
-Practice organizing, analyzing, and visualizing data using Excel.
+. Analyze healthcare access across Canadian provinces.
+. Compare family doctor waiting times by province.
+. Explore healthcare claim amounts across different claim types.
+. Compare insurance providers using claim data.
+. Develop an interactive Excel tool that allows users to explore healthcare claims.
+. Practice organizing, analyzing, and visualizing data using Excel.
